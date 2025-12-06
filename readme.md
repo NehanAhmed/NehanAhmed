@@ -4,7 +4,7 @@
 
 I'm an Open Source Contributor who loves turning wild ideas into polished MVPs that actually solve problems. Whether I'm crafting buttery-smooth animations or wrangling databases, I'm always experimenting with new tools and finding ways to make the web smoother, smarter, and more enjoyable.
 
-Let's build something awesome. 🚀
+**Let's build something awesome**. 🚀
 
 
 
