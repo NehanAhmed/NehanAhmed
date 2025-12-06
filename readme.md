@@ -1,9 +1,11 @@
 # 💫 About Me:
-👋 Hi, I’m **Nehan** — a frontend developer who loves crafting clean, fast, and user-friendly web experiences. I work with **React, Next.js, TypeScript, and Tailwind CSS**, focusing on performance, design, and simplicity.
 
-I enjoy learning new tools, experimenting with ideas, and turning creative concepts into polished, responsive interfaces. Always exploring ways to make the web smoother, smarter, and more enjoyable.
+👋 Hi, I'm Nehan — a full stack developer who builds web experiences faster than they load (and trust me, they load fast). I work with React, Next.js, TypeScript, PostgreSQL, and GSAP, obsessing over both performance and pixel-perfect design.
 
-Let’s build something awesome.
+I'm an Open Source Contributor who loves turning wild ideas into polished MVPs that actually solve problems. Whether I'm crafting buttery-smooth animations or wrangling databases, I'm always experimenting with new tools and finding ways to make the web smoother, smarter, and more enjoyable.
+
+Let's build something awesome. 🚀
+
 
 
 
