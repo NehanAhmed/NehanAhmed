@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 Hi, I'm Nehan — a full stack developer who builds web experiences faster than they load (and trust me, they load fast). I work with React, Next.js, TypeScript, PostgreSQL, and GSAP, obsessing over both performance and pixel-perfect design.
+👋 Hi, I'm Nehan — a full stack developer who builds web experiences faster than they load (and trust me, they load fast). I work with React, Next.js, TypeScript,Express,NodeJS,MongoDB,Redis,Zustand,TailwindCSS,Shadcn/ui, PostgreSQL, and GSAP, obsessing over both performance and pixel-perfect design.
 
 I'm an Open Source Contributor who loves turning wild ideas into polished MVPs that actually solve problems. Whether I'm crafting buttery-smooth animations or wrangling databases, I'm always experimenting with new tools and finding ways to make the web smoother, smarter, and more enjoyable.
 
