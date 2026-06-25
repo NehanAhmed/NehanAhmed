@@ -25,6 +25,3 @@ I care about performance, clean API design, and UI that moves like it means it.
 
 `TypeScript` &nbsp;·&nbsp; `React` &nbsp;·&nbsp; `Next.js` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `Express` &nbsp;·&nbsp; `MongoDB` &nbsp;·&nbsp; `Redis`
 
----
-
-![](https://github-readme-stats.vercel.app/api?username=NehanAhmed&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
