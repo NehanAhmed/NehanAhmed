@@ -4,7 +4,9 @@
 <p align="center">
   <a href="https://nehan.vercel.app">Portfolio</a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/nehan-ahmed">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=61557055856757">Facebook</a>
+  <a href="https://www.facebook.com/profile.php?id=61557055856757">Facebook</a>·&nbsp;
+  <a href="https://x.com/Nehanahmed988">X (Twitter)</a> &nbsp;
+  
 </p>
 
 ---
